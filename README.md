@@ -1,8 +1,8 @@
-# Star Trail Launcher
+# Kumi Launcher
 
 > A lightweight, open-source Minecraft launcher focused on simplicity, customization and performance.
 
-Star Trail Launcher is an open-source Minecraft launcher designed to provide a simple and customizable way to manage Minecraft installations, instances and modpacks.
+Kumi Launcher is an open-source Minecraft launcher designed to provide a simple and customizable way to manage Minecraft installations, instances and modpacks.
 ## Screenshots
 
 <p align="center">
@@ -30,7 +30,7 @@ Star Trail Launcher is an open-source Minecraft launcher designed to provide a s
 
 ## Status
 
-**Star Trail Launcher is currently in development.**
+**Kumi Launcher is currently in development.**
 
 Features may change, break, or be incomplete while the project is being developed.
 
@@ -56,7 +56,7 @@ Download the latest installer from the [Releases](../../releases) page and follo
 Clone the repository:
 
 ```bash
-git clone https://github.com/pletgone-a11y/star-trail-launcher.git
+git clone https://github.com/pletgone-a11y/kumi-launcher.git
 cd STL
 ```
 
@@ -96,10 +96,10 @@ Pull requests are also welcome.
 
 ## License
 
-Star Trail Launcher is licensed under the **GNU General Public License v3.0**.
+Kumi Launcher is licensed under the **GNU General Public License v3.0**.
 
 See the [LICENSE](LICENSE) file for the full license text.
 
 ## Disclaimer
 
-Star Trail Launcher is an independent open-source project and is not affiliated with, endorsed by, or sponsored by Mojang Studios or Microsoft.
+Kumi Launcher is an independent open-source project and is not affiliated with, endorsed by, or sponsored by Mojang Studios or Microsoft.
